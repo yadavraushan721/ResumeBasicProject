@@ -1,108 +1,110 @@
 # Resume Basic Project
 
-This is a simple HTML-based resume project created by **Raushan Kumar Yadav**. It showcases personal, educational, and professional details in a clean and organized format. The page is styled with basic inline CSS and includes sections like Education, Experience, Skills, Projects, and more.
+A simple and clean HTML-based resume website to showcase personal, educational, and professional information in a structured format.
+
+## 🔗 Live Demo
+
+[GitHub Repository](https://github.com/yadavraushan721/ResumeBasicProject.git)
 
 ---
 
-## 📄 Project Structure
+## 👤 About Me
 
-- **Name:** Raushan Kumar Yadav  
-- **Email:** [raushankumaryadav40@gmail.com](mailto:raushankumaryadav40@gmail.com)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/uas/login-submit)  
-- **GitHub:** [GitHub Profile](https://github.com/)
+**Raushan Kumar Yadav**  
+📧 Email: [raushankumaryadav40@gmail.com](mailto:raushankumaryadav40@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yadavraushan04](https://www.linkedin.com/in/yadavraushan04)  
+🐙 GitHub: [github.com/yadavraushan721](https://github.com/yadavraushan721)
+
+I am a passionate software engineer with strong problem-solving skills and a deep understanding of algorithms. I enjoy exploring various technologies and strive to write clean, efficient, and scalable code.
 
 ---
 
-## 🧑‍🎓 Education
+## 🏫 Education
 
-- Master in Computer Application, Galgotias University  
-- Bachelor in Science, R.K. College
+- **Master in Computer Application**, Galgotias University  
+- **Bachelor in Science**, R.K. College
 
 ---
 
 ## 💼 Work Experience
 
-- Web Development Intern at Plasmid
+- Web Development Intern at **Plasmid**
 
 ---
 
-## 💻 Skills
+## 🛠️ Skills
 
-- C Programming  
-- Java  
-- Python  
-- Machine Learning  
-- HTML  
-- SQL
+- **Languages:** Java, Python  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Tools & Technologies:** Git, GitHub, Microsoft Office  
+- **Other:** Machine Learning, Data Structures & Algorithms
 
 ---
 
-## 🎯 Projects
+## 🎯 Achievements
 
-### Loan Prediction
-A machine learning-based project that predicts loan approval outcomes.
+- NPTEL Certificate – Big Data Computing  
+- AWS Certificate – Data Engineering
 
-- **Hosted Link:** [abcd.com](http://abcd.com)  
-- **GitHub Repo:** [abcd.com](http://abcd.com)
+---
+
+## 🧠 Projects
+
+### 📌 Product Recommendation System
+An ML-based system combining collaborative and content-based filtering to personalize product recommendations.  
+**Tech Stack:** Google Colab, Python, NumPy, Pandas
+
+### 🎧 Spotify Clone
+Designed a visually appealing and responsive UI clone of Spotify.  
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
 ## 🎨 Hobbies
 
 - Singing  
-- Poetry  
-- Coding
-
----
-
-## 🏆 Achievements
-
-_(Currently left blank for future updates.)_
+- Writing Poetry
 
 ---
 
 ## ❓ Frequently Asked Questions
 
 <details>
-<summary><strong>1. What is your name?</strong></summary>
-<p>My name is Raushan Kumar Yadav.</p>
+  <summary>What is your name?</summary>
+  My name is Raushan Kumar Yadav.
 </details>
 
 <details>
-<summary><strong>2. Can I customize this page?</strong></summary>
-<p>No!</p>
+  <summary>Can I customize this page?</summary>
+  No!
 </details>
 
 <details>
-<summary><strong>3. How can I contact customer support?</strong></summary>
-<p>Go to the help section, then click on customer support.</p>
+  <summary>How can I contact customer support?</summary>
+  Go to the Help section and click on Customer Support.
 </details>
 
 <details>
-<summary><strong>4. Is any mobile app available?</strong></summary>
-<p>No! Currently, our service is available only on the website.</p>
+  <summary>Is any mobile app available?</summary>
+  No, currently the service is only available on the website.
 </details>
 
 <details>
-<summary><strong>5. What are the areas of interest?</strong></summary>
-<ul>
-  <li>Web Development</li>
-  <li>Mobile App Development</li>
-  <li>Software Development</li>
-</ul>
+  <summary>What are your areas of interest?</summary>
+  - Web Development  
+  - Mobile App Development  
+  - Software Development
 </details>
 
 ---
 
-## 📜 License
+## 📷 Preview
 
-© 2024 Raushan Kumar Yadav — All rights reserved.
+![Screenshot](image/PIC.jpg)
 
 ---
 
-## 🔗 How to Use
+## 📄 License
 
-To run this project:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yadavraushan721/ResumeBasicProject.git
+© 2024 Raushan Kumar Yadav. All rights reserved.
